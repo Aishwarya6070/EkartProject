@@ -3,10 +3,15 @@
 DESCRIPTION
 	ShopOnline is a ecommerce shopping site. Spring boot + Spring security + Thymeleaf is used to build the application.
 
-VIDEO lINK
-	https://youtu.be/Wzo3uE7vOco
 
 PASSWORD
-	admin123
+	
 	manager123
 	user123
+	
+	# Bootcamp batch 87
+	* team members:
+	Aishwarya kulkarni
+	Sahana Naganoor
+	Sakshi Mehrotra
+	Gowri Suresh
