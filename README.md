@@ -6,11 +6,12 @@ DESCRIPTION
 
 PASSWORD
 	
-	manager123
+	admin123
 	user123
 	
 	# Bootcamp batch 87
 	* team members:
+	Group 1
 	Aishwarya kulkarni
 	Sahana Naganoor
 	Sakshi Mehrotra
